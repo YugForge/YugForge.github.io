@@ -1,11 +1,10 @@
 ---
-title: Tutorial
+title: Step-by-step Tutorial
 more_data:
   - Can be provided
   - as: objects
     or: arrays
 ---
-# Getting started with in-browser WebGL editor
 
 ## Introduction
 
@@ -45,7 +44,7 @@ Before we begin, ensure you have the following:
 
 - Inspector: Displays details and settings for the selected object.
 
-- Assets: Lets you import assets, textures, font ,audio and Create New materials, texture, Java Script and HTML 
+- Assets Viewer: Lets you import assets, textures, font ,audio and Create New materials, texture, Java Script and HTML 
 
 ![Docusaurus Plushie](./navigation.jpg)
 

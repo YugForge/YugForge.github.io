@@ -1,4 +1,10 @@
-## Camera Controls
+---
+title: Controls and Keyboard Shortcuts
+more_data:
+  - Can be provided
+  - as: objects
+    or: arrays
+---## Camera Controls
 
 The Editor's camera is controlled with the mouse and keyboard.
 

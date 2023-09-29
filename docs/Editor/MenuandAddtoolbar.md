@@ -1,6 +1,14 @@
+---
+title: Menu and Add toolbar
+more_data:
+  - Can be provided
+  - as: objects
+    or: arrays
+---
+
 Menu bar provides File Edit and Run options. One can import and save files in File option. Edit option is used to edit 3d object properties such as undo, redo, delete, cut, copy, paste, etc. Run lets you run the game or application.
 
-In the add toolbaqr you can add 3d objects texts lights cameras script particles and controls to the scene.
+In the add toolbar you can add 3d objects texts lights cameras script particles and controls to the scene.
 
 ![Docusaurus Plushie](./menu.jpg)  
 
@@ -23,8 +31,6 @@ There are three types of text options available: Text Mesh, Bitmap Text, and Spr
  ## Adding lights
 
  There are various options available for lights, which you can access by hovering over the lights icon. These options include Point Light, Ambient Light, Spot Light, and more. You can customize their properties, such as intensity, color, resolution, radius, and more, directly in the Inspector panel. This enables you to fine-tune the lighting settings in your scene to achieve the desired visual effects.
-
- ![Docusaurus Plushie](./text.jpg)
 
 ## Audio
 
