@@ -20,7 +20,7 @@ Before we begin, ensure you have the following:
 
 - Basic familiarity with 3D concepts (optional but helpful)
 
-## Step 1: Acessing the Web 3D Editor
+## Step 1: Accessing the Web 3D Editor
 
 1. Open your web browser and navigate to the website or platform hosting the web-based 3D editor.
 
@@ -36,7 +36,7 @@ Before we begin, ensure you have the following:
 
 - Scene: The central area where you view and manipulate 3D models.
 
-- Navigation Toolbar: The area where you can select move scale rotate and focus on an objject.
+- Navigation Toolbar: The area where you can select move scale rotate and focus on an object.
 
 - Add Toolbar: Contains tools for creating, modifying, and interacting with 3D objects.
 
@@ -64,7 +64,7 @@ Let's create a simple 3D object to get started.
 
 Now, let's modify and transform the object.
 
-1. Select the object in the proect explorer or by clicking on it in the scene.
+1. Select the object in the project explorer or by clicking on it in the scene.
 
 2. Use the Navigation Toolbar tools to scale, rotate, or move the object.
 
@@ -92,7 +92,7 @@ Material editor lets you edit material properties such as color, bump mapping, h
 
 1. Double-click on the material you wish to edit. after clicking on the material a material editor will open up
 
-2. In the material editor you can change color, roughness, metalness and add bump, emmissive, ambient occlusion to the material
+2. In the material editor you can change color, roughness, metal-ness and add bump, emissive, ambient occlusion to the material
 
 3. One can also apply custom textures by clicking on texture, roughness and metalness map option.
 
@@ -100,7 +100,7 @@ Material editor lets you edit material properties such as color, bump mapping, h
 
 ## Step 7: Saving the file
 
-1. Navigate to the File panel inside file panel click on save then web.
+1. Navigate to the File panel, inside file panel click on save then web.
 
 2. Your file will be saved on the web.
 

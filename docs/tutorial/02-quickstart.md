@@ -22,7 +22,7 @@ Basic 3D understanding (optional).
 
 ## Step 1
 
-- Go to the editor's website (yugforge.com).
+- Go to the editor's website (http://www.yugforge.com).
 - Sign in or create an account.
 - Click "Profile," select "My Projects," then "Create New."
 
@@ -30,7 +30,7 @@ Basic 3D understanding (optional).
 
 ## Step 2
 
-Here is the baic information about the editor's workspace.
+Here is the basic information about the editor's workspace.
 
 - Scene: Your 3D workspace.
 - Navigation Toolbar: For moving, scaling, rotating, and focusing.
