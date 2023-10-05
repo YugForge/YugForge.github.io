@@ -44,7 +44,7 @@ In Yug Forge web editor, you can add materials by clicking the "Materials" optio
 
 In Yug Forge, material editing is done within the Material Editor. You can access this editor by double-clicking on a material, which opens a separate window alongside the main scene view. Inside the Material Editor, you have the flexibility to modify various properties of the material, including its name, color, roughness, metalness, opacity, and texture maps. This powerful tool allows for precise customization of material attributes to achieve the desired visual effects in your 3D designs.
 
-![Docusaurus Plushie](./Step6.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/02/step6.jpg)
 
 ### Applying materials
 

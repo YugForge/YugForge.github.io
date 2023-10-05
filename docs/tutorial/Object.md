@@ -12,7 +12,7 @@ To facilitate the creation of your scene in Yug Forge, a variety of 3D objects a
 
 You can add 3D objects by hovering over the cube and cone icons. Afterward, you can choose from a variety of 3D objects to add, including plane, cube, cylinder, sphere, cone, and more. This intuitive method makes it easy to insert different geometric shapes and objects into your 3D scene.
 
-![Docusaurus Plushie](./Step2.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/02/step2.jpg)
 
 ## Adjusting of attributes
 
