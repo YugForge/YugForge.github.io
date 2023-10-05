@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'YugForge Docs',
+        title: 'YugForge Developer',
         logo: {
           alt: 'YugForge',
           src: 'img/logo.svg',
@@ -72,11 +72,21 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'docsSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'apiSidebar',
+            position: 'left',
+            label: 'API',
+          },
+          {
+            to: '/blog', 
+            label: 'Blog', 
+            position: 'left'
+          },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
