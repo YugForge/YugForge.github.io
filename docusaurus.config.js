@@ -67,7 +67,7 @@ const config = {
         title: 'YugForge Docs',
         logo: {
           alt: 'YugForge',
-          src: 'img/logoyg.svg',
+          src: 'img/logo.svg',
         },
         items: [
           {
