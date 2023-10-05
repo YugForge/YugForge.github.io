@@ -1,47 +1,32 @@
 ---
-sidebar_position: 1
+title: Introduction
+more_data:
+  - Can be provided
+  - as: objects
+    or: arrays
 ---
+# Introduction to YUG forge
 
-# YUGforge Intro
+## What is YUG forge?
 
-Let's discover **Docusaurus in less than 5 minutes**.
+YUG forge is a in-browser WebGL editor is a powerful tool for creating and editing 3D graphics in real-time. It's accessible, intuitive, and offers a wide range of features, including shaders, animation, and seamless integration with web technologies. Whether you're a beginner or an experienced artist, this editor provides a user-friendly solution for 3D content creation.
 
-## Getting Started
+## Upload and create assets
+![Docusaurus Plushie](./UploadAssets.jpg)
 
-Get started by **creating a new site**.
+YUG forge supports a wide variety of industry standard asset formats. For example, upload images, 3D models, audio files or custom text or binary file formats.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Create your scene
+![Docusaurus Plushie](./createscene.jpg)
 
-### What you'll need
+The YUG forge Editor is a visual building tool which is used to construct scenes. Build a hierarchy of entities using built in components like 3D models, collision, particle effects and more.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Enhance user engagement
+![Docusaurus Plushie](./Code.jpg)
 
-## Generate a new site
 
-Generate a new Docusaurus site using the **classic template**.
+Unlock the power of web-standard JavaScript to infuse your entities with bespoke behaviors, opening up a world of interactivity possibilities – from crafting elegant click handlers and mesmerizing orbit cameras to orchestrating epic massively multiplayer online gaming experiences
 
-The classic template will automatically be added to your project after you run the command:
+## Release your application
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+The YUG forge Editor is a user-friendly editing platform that empowers you to swiftly create scenes, applications, and games. Leverage the Editor to oversee your project's resources, incorporate interactive elements, and facilitate seamless collaboration with your team. Thanks to real-time collaboration features, you can instantly observe any modifications made by your team members, and you can promptly develop and evaluate your application on various devices.
