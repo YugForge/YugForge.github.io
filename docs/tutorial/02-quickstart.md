@@ -26,7 +26,7 @@ Basic 3D understanding (optional).
 - Sign in or create an account.
 - Click "Profile," select "My Projects," then "Create New."
 
-![Docusaurus Plushie](./createnew.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/02/createnew.jpg)
 
 ## Step 2
 
@@ -37,7 +37,7 @@ Here is the basic information about the editor's workspace.
 - Add Toolbar: Tools for 3D object creation.
 - Project Explorer: List of objects.
 
-![Docusaurus Plushie](./navigation.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/02/navigation.jpg)
 
 ## Step 3
 
@@ -46,7 +46,7 @@ Here is the basic information about the editor's workspace.
 - Experiment with different transformations.
 - Apply materials to the object.
 
-![Docusaurus Plushie](./Step2.jpg) ![Docusaurus Plushie](./Step6.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/02/step2.jpg) ![Docusaurus Plushie](/img/docs/tutorial/02/step6.jpg)
 
 ## Step 4
 

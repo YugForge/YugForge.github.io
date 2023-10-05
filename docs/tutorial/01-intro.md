@@ -18,12 +18,12 @@ YUG forge is a in-browser WebGL editor is a powerful tool for creating and editi
 YUG forge supports a wide variety of industry standard asset formats. For example, upload images, 3D models, audio files or custom text or binary file formats.
 
 ## Create your scene
-![Docusaurus Plushie](./createscene.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/01/createscene.jpg)
 
 The YUG forge Editor is a visual building tool which is used to construct scenes. Build a hierarchy of entities using built in components like 3D models, collision, particle effects and more.
 
 ## Enhance user engagement
-![Docusaurus Plushie](./Code.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/01/code.jpg)
 
 
 Unlock the power of web-standard JavaScript to infuse your entities with bespoke behaviors, opening up a world of interactivity possibilities – from crafting elegant click handlers and mesmerizing orbit cameras to orchestrating epic massively multiplayer online gaming experiences
