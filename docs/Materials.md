@@ -8,7 +8,7 @@ more_data:
 
 ## Materials
 
-In the Yug Forge web editor, "materials" refer to the visual attributes applied to 3D objects to determine their appearance, including color, texture, reflectivity, and transparency. Materials enable users to define how light interacts with objects in a 3D scene, making objects look realistic or stylized. Users can apply materials to surfaces, adjusting properties like roughness, metallicness, and opacity, allowing for diverse and visually appealing 3D designs. Materials play a crucial role in defining the overall look and feel of objects within a 3D environment in the Yug Forge web-based modeling and design tool.
+In the Yug Forge web editor, "materials" refer to the visual attributes applied to 3D objects to determine their appearance, including color, texture, reflectivity, and transparency. Materials enable users to define how light interacts with objects in a 3D scene, making objects look realistic or stylized. Users can apply materials to surfaces, adjusting properties like roughness, metallic, and opacity, allowing for diverse and visually appealing 3D designs. Materials play a crucial role in defining the overall look and feel of objects within a 3D environment in the Yug Forge web-based modeling and design tool.
 
 ## Types of Materials
 
