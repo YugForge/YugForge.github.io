@@ -30,7 +30,7 @@ Before we begin, ensure you have the following:
 
 4. Enter the name and description of the project and save it.
 
-![Docusaurus Plushie](./createnew.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/02/createnew.jpg)
 
 ## Step 2: Navigating the Interface
 
@@ -46,7 +46,7 @@ Before we begin, ensure you have the following:
 
 - Assets Viewer: Lets you import assets, textures, font ,audio and Create New materials, texture, Java Script and HTML 
 
-![Docusaurus Plushie](./navigation.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/02/navigation.jpg)
 
 ## Step 3: Creating a 3D Object
 
