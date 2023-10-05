@@ -66,8 +66,8 @@ const config = {
       navbar: {
         title: 'YugForge Docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'YugForge',
+          src: 'img/logoyg.svg',
         },
         items: [
           {
