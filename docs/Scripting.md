@@ -35,7 +35,7 @@ To enable scripting in yug fotge you first need to add script of your choice by 
 
 Access the scripting console within Yug Forge, where you can write, test, and execute your scripts. This console provides real-time feedback and error reporting.
 
-![Docusaurus Plushie](./code.jpg)
+![Docusaurus Plushie](./Code.jpg)
 
 
 ## 2. Java Scripting
