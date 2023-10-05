@@ -1,5 +1,6 @@
 ---
 title: Introduction
+sidebar_label: Introduction
 more_data:
   - Can be provided
   - as: objects
@@ -12,7 +13,7 @@ more_data:
 YUG forge is a in-browser WebGL editor is a powerful tool for creating and editing 3D graphics in real-time. It's accessible, intuitive, and offers a wide range of features, including shaders, animation, and seamless integration with web technologies. Whether you're a beginner or an experienced artist, this editor provides a user-friendly solution for 3D content creation.
 
 ## Upload and create assets
-![Docusaurus Plushie](./UploadAssets.jpg)
+![Docusaurus Plushie](/img/docs/uploadAssets.jpg)
 
 YUG forge supports a wide variety of industry standard asset formats. For example, upload images, 3D models, audio files or custom text or binary file formats.
 
