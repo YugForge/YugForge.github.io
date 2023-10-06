@@ -1,7 +1,7 @@
 ---
 slug: test
 title: Demystifying 3D Design - A Primer 🎨 #3D #Design
-sidebar_label: Demystifying 3D Design
+sidebar_label: 3D Design Primer
 authors:
   name: shanu
   title: Docusaurus Core Team
