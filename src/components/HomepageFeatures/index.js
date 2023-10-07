@@ -4,32 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Metaverse creation',
+    Svg: require('@site/static/img/Homepage/metaverse.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Seamlessly immerse your designs into the metaverse with our 3D web editor. Easily export your creations to virtual environments, fostering a bridge between your digital designs and the expanding metaverse landscape. 
+
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Architectural visualization',
+    Svg: require('@site/static/img/Homepage/Land.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        our web editor offers specialized tools for creating stunning architecture websites. From visualizing building designs in 3D to incorporating interactive walkthroughs, our features empower you to showcase architectural projects with unparalleled detail.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Game creation platform',
+    Svg: require('@site/static/img/Homepage/game.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       Empowering users to craft interactive and engaging gaming experiences, this feature allows you to build and customize your own games within the 3D environment.
       </>
     ),
   },

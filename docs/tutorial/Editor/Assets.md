@@ -4,7 +4,7 @@ The Assets Panel is comprised of three main components: Assets, Console, and Ani
 
 ![Docusaurus Plushie](./assets.jpg)
 
-Within the Assets Panel, you can add a wide range of elements to your project, including 3D models, fonts, textures, audio files, various types of materials, JavaScript code, and HTML content. This versatile panel allows you to import and manage diverse assets and resources to enhance your project's functionality and visual appeal.
+Within the Assets Panel, you can add a wide range of elements to your project, including 3D models, fonts, textures, audio files, various types of materials, Javascript code, and HTML content. This versatile panel allows you to import and manage diverse assets and resources to enhance your project's functionality and visual appeal.
 
 ## Importing Assets
 

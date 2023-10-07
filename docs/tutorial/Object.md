@@ -18,7 +18,7 @@ You can add 3D objects by hovering over the cube and cone icons. Afterward, you 
 
 In the Yug Forge web editor, you have a wealth of options available for modifying the properties of 3D objects, and each object is equipped with its own set of unique properties. To make these adjustments, you can conveniently access the Inspector Panel. This panel provides you with a comprehensive view of the specific properties associated with the selected 3D object. Through the Inspector Panel, you have the flexibility to fine-tune and customize these properties to suit your creative needs, ensuring that your objects are precisely configured to achieve your desired results within the Yug Forge web editor.
 
-![Docusaurus Plushie](./At1.jpg) ![Docusaurus Plushie](./At2.jpg)
+![Docusaurus Plushie](/img/pages/At1.jpg) ![Docusaurus Plushie](/img/pages/At2.jpg)
 
 
 
@@ -28,9 +28,9 @@ You have a limited set of properties available for customization to suit your sc
 
 For instance, in the image below, we have two torus knots. The yellow lines represent the number of segments. The left one has 50 tubular and 10 radial segments, while the right one has 128 tubular and 98 radial segments. The difference is evident in the level of detail, with the right one appearing smoother due to more segments.
 
-![Docusaurus Plushie](./torus.jpg)
+![Docusaurus Plushie](/img/pages/torus.jpg)
 
-![Docusaurus Plushie](./torus2.jpg)
+![Docusaurus Plushie](/img/pages/torus2.jpg)
 
 ## Radius
 
@@ -38,7 +38,7 @@ The radius is the distance from the center of a circle, sphere, or curved object
 
 In some 3D modeling software, certain objects offer the option to modify their radius. This feature is typically applicable to shapes with a circular or spherical form. By adjusting the radius, you can effectively change the thickness of the object.
 
-![Docusaurus Plushie](./radius.jpg)
+![Docusaurus Plushie](/img/pages/radius.jpg)
 
 
 For example, consider a simple cylinder. In the provided image, we added a cylinder and altered its top radius to 0.5 units while setting the bottom radius to 3 units. This adjustment results in a shape that tapers from a wider base to a narrower top, effectively changing its thickness.

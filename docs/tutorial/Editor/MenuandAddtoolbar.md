@@ -26,7 +26,7 @@ There are three types of text options available: Text Mesh, Bitmap Text, and Spr
 
  ## Code editor
 
- By hovering over the code icon, you can add custom scripts to your scene. These scripts can be written in Java and Python, allowing you to add custom functionality and interactivity to your project. This scripting capability provides flexibility for creating dynamic and interactive experiences within your scene
+ By hovering over the code icon, you can add custom scripts to your scene. These scripts can be written in Javascript and Python, allowing you to add custom functionality and interactivity to your project. This scripting capability provides flexibility for creating dynamic and interactive experiences within your scene
 
  ## Adding lights
 

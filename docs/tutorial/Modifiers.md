@@ -14,7 +14,7 @@ Yug Forge offers Constructive Solid Geometry (CSG), a 3D modeling technique that
 
 CSG Intersect is a 3D modeling operation that creates a new object by preserving only the overlapping regions of two input objects. For example, applying CSG Intersect to a sphere and a cube yields an object representing their shared area while discarding non-overlapping sections. It's valuable in precise modeling and collision detection.
 
-![Docusaurus Plushie](./int.jpg)
+![Docusaurus Plushie](/img/pages/int.jpg)
 
 In a 3D scenario featuring a cylinder and a cube, you can create a new object representing their shared region by selecting both objects, then accessing the "Edit" menu, choosing "CSG," and finally selecting "Intersect." This process isolates the overlapping area while excluding non-overlapping parts of the objects.
 
@@ -24,7 +24,7 @@ CSG Subtract is a feature in 3D modeling that allows you to remove the shape of 
 
 To illustrate this, let's consider an example: Suppose you want to create a hole in a cube. First, select the cube, and then select the cylinder. While both objects are selected, navigate to the "subtract" option found in the "Edit" menu under CSG. This action will result in the cylinder being subtracted from the cube, effectively cutting a hole in the cube. You can visualize the outcome in a manner similar to what's depicted in image 2.
 
-![Docusaurus Plushie](./sub.jpg)
+![Docusaurus Plushie](/img/pages/sub.jpg)
 
 ### Union
 
@@ -32,7 +32,7 @@ CSG Union is a 3D modeling operation that combines two or more objects to create
 
 Unlike grouping or basic combination, CSG Union in 3D modeling combines not just objects but also their topologies, effectively merging their volumes into a single, cohesive object. To perform a union operation on two 3D objects, select the objects you wish to merge and then navigate to the "Edit" menu, followed by "CSG," and choose "Union." This process integrates the selected objects, preserving their individual topological properties while creating a unified object.
 
-![Docusaurus Plushie](./union.jpg)
+![Docusaurus Plushie](/img/pages/union.jpg)
 
 ## Modifiers
 
@@ -44,7 +44,7 @@ The "simplify" modifier is employed to reduce the polygon count or simplify the 
 
 To use the "simplify" modifier, select the desired 3D model, then access the "Edit" menu and choose "Modifiers." From the list of modifiers, select "Simplify."
 
-![Docusaurus Plushie](./Simplify.jpg) ![Docusaurus Plushie](./Simplify2.jpg)
+![Docusaurus Plushie](/img/pages/Simplify.jpg) ![Docusaurus Plushie](/img/pages/Simplify2.jpg)
 
 ### Subdivide
 
@@ -52,7 +52,7 @@ Unlike the "simplify" modifier, "subdivide" is its opposite. The "subdivide" mod
 
 To use the "subdivide" modifier, first select the desired 3D model. Then, access the "Edit" menu and choose "Modifiers." Within the modifier options, select "Subdivide." This action enables you to increase detail and smoothness in your object by subdividing its existing segments or polygons to enhance its complexity in 3D modeling.
 
-![Docusaurus Plushie](./torus2.jpg)
+![Docusaurus Plushie](/img/pages/torus2.jpg)
 
 ## Merge geometries 
 

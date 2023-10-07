@@ -17,7 +17,7 @@ Cameras in Yug Forge play a pivotal role in controlling the viewpoint and render
 
 ## 1. Types of Cameras
 
-![Docusaurus Plushie](./C1.jpg)
+![Docusaurus Plushie](/img/pages/C1.jpg)
 
 ### Perspective Camera
 
@@ -29,7 +29,7 @@ Cameras in Yug Forge play a pivotal role in controlling the viewpoint and render
 
 ## 2. Camera Controls
 
-![Docusaurus Plushie](./C2.jpg)
+![Docusaurus Plushie](/img/pages/C2.jpg)
 
 ### Navigating the Viewport
 

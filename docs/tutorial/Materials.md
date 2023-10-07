@@ -38,7 +38,7 @@ Within the Yug Forge web editor, you have the opportunity to select from a diver
 
 In Yug Forge web editor, you can add materials by clicking the "Materials" option in the Assets Panel and selecting the desired material. This action adds the chosen material as a new asset in the panel, offering a straightforward way to expand material choices and enhance 3D object appearances.
 
-![Docusaurus Plushie](./M1.jpg)
+![Docusaurus Plushie](/img/pages/M1.jpg)
 
 ### Editing material properties
 
@@ -87,7 +87,7 @@ In Yug Forge, you have the flexibility to create various types of textures, whet
 2. Select from the list of available textures.
 3. A pop-up window will appear, enabling you to choose an image or video to apply as a texture to your 3D object or scene. This straightforward process allows you to enhance the visual richness of your 3D projects with a diverse range of textures, enhancing their realism and appeal.
 
-![Docusaurus Plushie](./T.jpg)
+![Docusaurus Plushie](/img/pages/T.jpg)
 
 ### Adding textures to a material
 
@@ -101,4 +101,4 @@ In Yug Forge, applying textures to a material is a straightforward process withi
 
 This user-friendly approach allows for easy customization of materials with textures, enhancing the visual richness and realism of your 3D objects and scenes.
 
-![Docusaurus Plushie](./T2.jpg)
+![Docusaurus Plushie](/img/pages/T2.jpg)

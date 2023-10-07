@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Scripting in Yug Forge adds a powerful layer of interactivity and customization to your projects. In this documentation, we'll explore scripting in two popular languages, Java and Python, within the Yug Forge environment.
+Scripting in Yug Forge adds a powerful layer of interactivity and customization to your projects. In this documentation, we'll explore scripting in two popular languages, Javascript and Python, within the Yug Forge environment.
 
 ## Table of Contents
 
@@ -10,8 +10,8 @@ Scripting in Yug Forge adds a powerful layer of interactivity and customization 
    - Enabling Scripting in Yug Forge
    - Accessing the Scripting Console
 
-2. **Java Scripting**
-   - Basics of Java Scripting
+2. **Javascript Scripting**
+   - Basics of Javascripting
    - Example: Adding Interactive Elements
 
 3. **Python Scripting**
@@ -26,9 +26,9 @@ Scripting in Yug Forge adds a powerful layer of interactivity and customization 
 
 ### Adding Scripting in Yug Forge
 
-To enable scripting in yug fotge you first need to add script of your choice by clicking on the script icon in the add menu then add thr script of your choice as of now you get java and python.
+To enable scripting in yug forge you first need to add script of your choice by clicking on the script icon in the add menu then add the script of your choice as of now you get javascript and python.
 
-![Docusaurus Plushie](./script.jpg)
+![Docusaurus Plushie](/img/pages/script.jpg)
 
 
 ### Accessing the Scripting Console
@@ -38,11 +38,11 @@ Access the scripting console within Yug Forge, where you can write, test, and ex
 ![Docusaurus Plushie](/img/docs/tutorial/01/code.jpg)
 
 
-## 2. Java Scripting
+## 2. Javascript Scripting
 
-### Basics of Java Scripting
+### Basics of Javascript Scripting
 
-Java is a versatile language for Yug Forge scripting. Key points include:
+Javascript is a versatile language for Yug Forge scripting. Key points include:
 - Declaring variables
 - Writing functions
 - Event handling for user interactions
@@ -94,4 +94,4 @@ Write scripts in Yug Forge that are compatible with major web browsers to ensure
 
 Use Yug Forge developer tools to debug scripts. Utilize console logs and error messages for efficient troubleshooting.
 
-By incorporating scripting into your Yug Forge projects using Java and Python, you can create dynamic, interactive, and customized experiences. Experiment, iterate, and push the boundaries of what your Yug Forge projects can achieve with the power of scripting.
+By incorporating scripting into your Yug Forge projects using Javascript and Python, you can create dynamic, interactive, and customized experiences. Experiment, iterate, and push the boundaries of what your Yug Forge projects can achieve with the power of scripting.

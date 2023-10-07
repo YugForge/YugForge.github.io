@@ -22,7 +22,7 @@ Before we begin, ensure you have the following:
 
 ## Step 1: Accessing the Web 3D Editor
 
-1. Open your web browser and navigate to the website or platform hosting the web-based 3D editor.
+1. Open your web browser and navigate to the website http://www.yugforge.com or platform hosting the web-based 3D editor.
 
 2. Sign up for an account or log in if required.
 
@@ -44,7 +44,7 @@ Before we begin, ensure you have the following:
 
 - Inspector: Displays details and settings for the selected object.
 
-- Assets Viewer: Lets you import assets, textures, font ,audio and Create New materials, texture, Javascript and HTML 
+- Assets Viewer: Lets you import assets, textures, font ,audio and Create New materials, texture, Java Script and HTML 
 
 ![Docusaurus Plushie](/img/docs/tutorial/02/navigation.jpg)
 
@@ -58,7 +58,7 @@ Let's create a simple 3D object to get started.
 
 3. Click on the shape to place the object in the scene.
 
-![Docusaurus Plushie](/img/docs/tutorial/02/step2.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/02/Step2.jpg)
 
 ## Step 4: Modifying and Transforming
 
@@ -96,7 +96,7 @@ Material editor lets you edit material properties such as color, bump mapping, h
 
 3. One can also apply custom textures by clicking on texture, roughness and metalness map option.
 
-![Docusaurus Plushie](/img/docs/tutorial/02/step6.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/02/Step6.jpg)
 
 ## Step 7: Saving the file
 

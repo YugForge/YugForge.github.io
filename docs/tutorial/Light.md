@@ -32,7 +32,7 @@ Lighting and environment are essential elements in Yug Forge, playing a pivotal 
 
 Yug Forge offers various types of lights to suit different scenarios:
 
-![Docusaurus Plushie](./L1.jpg)
+![Docusaurus Plushie](/img/pages/L1.jpg)
 
 
 - **Ambient Lights:** These provide uniform, all-encompassing lighting to the entire scene without a specific source. They set the overall mood and brightness.
@@ -56,7 +56,7 @@ To add lights to your Yug Forge scene:
 
 ### Creating Multiple Lights
 
-![Docusaurus Plushie](./L2.jpg)
+![Docusaurus Plushie](/img/pages/L2.jpg)
 
 You can add multiple lights to a scene to achieve complex lighting scenarios. Simply repeat the above process to introduce additional lights. Yug Forge allows you to blend different types of lights for nuanced lighting effects.
 
@@ -64,7 +64,7 @@ You can add multiple lights to a scene to achieve complex lighting scenarios. Si
 
 Once lights are added, you can customize their properties to achieve the desired lighting effects:
 
-![Docusaurus Plushie](./L3.jpg)
+![Docusaurus Plushie](/img/pages/L3.jpg)
 
 ### Light Intensity
 

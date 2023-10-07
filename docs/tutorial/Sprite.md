@@ -1,4 +1,4 @@
-# Particle and sprite  
+# Particle and Sprite  
 
 ## Introduction
 

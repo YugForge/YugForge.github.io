@@ -18,7 +18,7 @@ Audio is a crucial element in creating immersive and engaging experiences in Yug
 
 ## 1. Adding Audio to Your Scene
 
-![Docusaurus Plushie](./aA.jpg)
+![Docusaurus Plushie](/img/pages/aA.jpg)
 
 ### Importing Audio Files
 
@@ -26,7 +26,7 @@ Audio is a crucial element in creating immersive and engaging experiences in Yug
 2. Choose the "Audio" icon.
 3. Import audio files in common formats (MP3, WAV, etc.).
 
-![Docusaurus Plushie](./aA2.jpg)
+![Docusaurus Plushie](/img/pages/aA2.jpg)
 
 ### Placing Audio Sources
 
