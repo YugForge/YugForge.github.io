@@ -58,7 +58,7 @@ Let's create a simple 3D object to get started.
 
 3. Click on the shape to place the object in the scene.
 
-![Docusaurus Plushie](/img/docs/tutorial/02/Step2.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/02/step2.jpg)
 
 ## Step 4: Modifying and Transforming
 
@@ -96,7 +96,7 @@ Material editor lets you edit material properties such as color, bump mapping, h
 
 3. One can also apply custom textures by clicking on texture, roughness and metalness map option.
 
-![Docusaurus Plushie](/img/docs/tutorial/02/Step6.jpg)
+![Docusaurus Plushie](/img/docs/tutorial/02/step6.jpg)
 
 ## Step 7: Saving the file
 
