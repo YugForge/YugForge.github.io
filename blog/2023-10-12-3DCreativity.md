@@ -5,8 +5,8 @@ sidebar_label: 3D Design Tools
 authors:
   name: Shanu
   title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  url: https://yugforge.com
+  image_url: https://yugforge.com/assets/img/logo/logo.png
 tags: [3D Design, Digital Creativity, docusaurus]
 ---
 
