@@ -1,6 +1,6 @@
 ---
 slug: Yug Forge unveiled-3d-creativity
-title: Yug Forge Unveiled: Your Gateway to 3D Creativity
+title: Yug Forge Unveiled - Your Gateway to 3D Creativity
 sidebar_label: 3D Design Tools
 authors:
   name: Shanu
@@ -8,9 +8,9 @@ authors:
   url: https://github.com/wgao19
   image_url: https://github.com/wgao19.png
 tags: [3D Design, Digital Creativity, docusaurus]
+---
 
-
-# Yug Forge Unveiled: Your Gateway to 3D Creativity 🚀
+# Yug Forge Unveiled - Your Gateway to 3D Creativity 🚀
 
 Welcome to the exciting world of Yug Forge, where creativity knows no bounds. This blog post is your exclusive backstage pass, giving you a sneak peek into the incredible potential of Yug Forge, a platform that's set to revolutionize the way we approach 3D content creation.
 
