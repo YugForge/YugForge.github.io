@@ -66,4 +66,4 @@ Congratulations! You've taken your first steps into the captivating world of Yug
 
 Stay tuned as we continue our exploration of Yug Forge's features and delve into the depths of 3D design.
 
-Ready to embark on your creative journey? [Explore Yug Forge Now](#cta-link) and let your imagination run wild!
+Ready to embark on your creative journey? [Explore Yug Forge Now](https://www.yugforge.com) and let your imagination run wild!
