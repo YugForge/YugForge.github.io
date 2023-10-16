@@ -48,4 +48,4 @@ Understanding shaders is the first step to wielding the power of Yug Forge. It's
 
 Stay tuned as we continue to explore the amazing features of Yug Forge. Tomorrow, we'll delve deeper into this innovative platform and how it's revolutionizing the world of 3D design.
 
-Ready to infuse magic into your 3D graphics? [Explore Yug Forge Now](#cta-link) and let the adventure begin!
+Ready to infuse magic into your 3D graphics? [Explore Yug Forge Now](https://www.yugforge.com) and let the adventure begin!
