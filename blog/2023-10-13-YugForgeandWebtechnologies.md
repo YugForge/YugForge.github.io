@@ -44,4 +44,4 @@ Yug Forge's seamless integration with web technologies sets a new standard for 3
 
 Stay tuned as we continue our exploration of Yug Forge's features and how they redefine the 3D design landscape.
 
-Ready to explore the future of 3D design? [Explore Yug Forge Now](#cta-link) and witness the seamless integration yourself!
+Ready to explore the future of 3D design? [Explore Yug Forge Now](https://www.yugforge.com) and witness the seamless integration yourself!
