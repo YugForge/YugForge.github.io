@@ -44,4 +44,4 @@ Animating with Yug Forge is an adventure in creativity and storytelling. Every m
 
 Stay tuned as we continue our exploration of Yug Forge's features. Tomorrow, we'll delve into another exciting aspect that Yug Forge has to offer!
 
-Ready to breathe life into your 3D models? [Explore Yug Forge Now](#cta-link) and let the animation magic begin!
+Ready to breathe life into your 3D models? [Explore Yug Forge Now](https://www.yugforge.com) and let the animation magic begin!
