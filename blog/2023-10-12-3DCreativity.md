@@ -41,4 +41,4 @@ Bring your models to life through dynamic animations, making them more than just
 
 This is just the beginning of our exploration into Yug Forge, your gateway to a world of 3D creativity. Join us as we dive deeper, unveiling more exciting features, success stories, and tutorials that showcase the magic of Yug Forge.
 
-Get ready to embark on a remarkable journey into the realm of 3D design. [Explore Yug Forge Now](#cta-link) and unlock a world of creativity!
+Get ready to embark on a remarkable journey into the realm of 3D design. [Explore Yug Forge Now](https://www.yugforge.com) and unlock a world of creativity!
