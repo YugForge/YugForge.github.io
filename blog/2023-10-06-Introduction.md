@@ -27,4 +27,4 @@ tags: [introduction, docusaurus]
 - **Powerful Shaders**
 - **Dynamic Animation**
 
-Explore the possibilities with Yug Forge and venture into the fascinating universe of 3D design. [Start Creating with Yug Forge](#cta-link) now and unlock your creative potential!
+Explore the possibilities with Yug Forge and venture into the fascinating universe of 3D design. [Start Creating with Yug Forge](https://www/yugforge.com) now and unlock your creative potential!
