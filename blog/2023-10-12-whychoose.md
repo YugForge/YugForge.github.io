@@ -42,4 +42,4 @@ Yug Forge isn't limited to a specific industry or use case. It caters to a diver
 
 Choosing the right tool for 3D design is crucial for bringing your creative visions to life. Yug Forge provides not only the tools but also the environment that encourages innovation and creativity. Step into the world of Yug Forge and unlock your true 3D design potential.
 
-Join the community of creators who have embraced Yug Forge and are creating breathtaking 3D designs. [Explore Yug Forge Now](#cta-link) and embark on a remarkable journey of creativity and imagination.
+Join the community of creators who have embraced Yug Forge and are creating breathtaking 3D designs. [Explore Yug Forge Now](https://www.yugforge.com) and embark on a remarkable journey of creativity and imagination.
