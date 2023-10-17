@@ -1,12 +1,12 @@
 ---
-slug: test
+slug: Introduction
 title: Demystifying 3D Design - A Primer 🎨 #3D #Design
 sidebar_label: 3D Design Primer
 authors:
-  name: shanu
+  name: Shanu
   title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  url: https://yugforge.com
+  image_url: https://yugforge.com/assets/img/logo/logo.png
 tags: [introduction, docusaurus]
 ---
 
@@ -27,4 +27,4 @@ tags: [introduction, docusaurus]
 - **Powerful Shaders**
 - **Dynamic Animation**
 
-Explore the possibilities with Yug Forge and venture into the fascinating universe of 3D design. [Start Creating with Yug Forge](#cta-link) now and unlock your creative potential!
+Explore the possibilities with Yug Forge and venture into the fascinating universe of 3D design. [Start Creating with Yug Forge](https://www/yugforge.com) now and unlock your creative potential!
