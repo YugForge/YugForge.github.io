@@ -48,4 +48,4 @@ By understanding shaders and how they function in Yug Forge, designers can eleva
 
 In the subsequent blogs, we will explore various shader techniques and how Yug Forge simplifies their implementation, making the world of shaders accessible to all designers.
 
-Stay tuned for an exciting journey into the art of shader programming and its application in Yug Forge![Explore Yug Forge Now](https://www.yugforge.com)
+Stay tuned for an exciting journey into the art of shader programming and its application in Yug Forge! [Explore Yug Forge Now](https://www.yugforge.com)
