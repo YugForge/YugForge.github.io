@@ -38,6 +38,8 @@ Particle systems simulate the behavior of small, individual objects (particles) 
 - **Magical Effects:** Simulate mystical elements like sparks or magical dust.
 - **Interactive Elements:** Develop interactive elements that respond to user actions.
 
+![Docusaurus Plushie](/img/pages/fire.jpg)
+
 ## 2. Working with Particle Systems
 
 ### Adding a Particle System
@@ -63,6 +65,8 @@ Sprites are 2D images or animations that add detail and richness to your scenes.
 1. Import sprite images or animations into the Assets Panel.
 2. Assign sprites to individual particles in the particle system settings.
 3. Fine-tune sprite properties such as rotation and scale.
+
+![Docusaurus Plushie](/img/pages/sprite.jpg)
 
 ## 4. Advanced Techniques
 
