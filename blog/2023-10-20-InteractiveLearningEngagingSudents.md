@@ -58,5 +58,5 @@ Educators can tailor learning experiences to individual students. Yug Forge acco
 
 Interactive learning with Yug Forge is not just an educational trend; it's a glimpse into the future of education. As students become active learners, they develop the skills and knowledge necessary for a rapidly changing world.
 
-Are you ready to engage your students with the power of interactive learning using Yug Forge?
-periences with Yug Forge's interactive learning tools? [Explore Yug Forge Now](https://www.yugforge.com)
+Are you ready to engage your students with the power of interactive learning using Yug Forge? [Explore Yug Forge Now](https://www.yugforge.com)
+
