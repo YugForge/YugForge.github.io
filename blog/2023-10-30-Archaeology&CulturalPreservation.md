@@ -58,4 +58,4 @@ The platform's continuous technological advancements contribute to innovative pr
 
 Yug Forge stands as a beacon in preserving our rich cultural heritage. Its technological prowess in 3D scanning and modeling serves as a guardian, safeguarding and perpetuating the legacy of our ancestors.
 
-Explore Yug Forge's contributions to preserving cultural heritage and archaeological discoveries. Learn more about our commitment to cultural preservation at [Explore Yug Forge Now](https://www.Yugforge.com)
+Explore Yug Forge's contributions to preserving cultural heritage and archaeological discoveries.[Explore Yug Forge Now](https://www.Yugforge.com)

@@ -54,6 +54,6 @@ The key to mastering textures is practice and experimentation. Start with simple
 
 ## Elevate Your 3D Designs
 
-Textures and UV mapping are essential skills for any 3D designer. With Yug Forge's feature-rich platform and your newfound knowledge, you're on your way to creating stunning 3D designs with lifelike textures. Stay tuned for more insights into 3D design and Yug Forge.
+Textures and UV mapping are essential skills for any 3D designer. With Yug Forge's feature-rich platform and your newfound knowledge, you're on your way to creating stunning 3D designs with lifelike textures. 
 
-Now, it's time to dive into Yug Forge and explore the world of textures and UV mapping! [Explore Yug Forge Now](https://www.yugforge.com)
+Stay tuned for more insights into 3D design and Yug Forge. Now, it's time to dive into Yug Forge and explore the world of textures and UV mapping! [Explore Yug Forge Now](https://www.yugforge.com)

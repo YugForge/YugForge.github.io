@@ -1,6 +1,4 @@
-
-
-# 3D Content for Entertainmen---
+---
 slug:     yug-forge-personal-events-3d-content
 title:  3D Content for Entertainment and Special Occasions
 sidebar_label: Personal Events and Entertainment
@@ -10,7 +8,7 @@ authors:
   url: https://yugforge.com
   image_url: https://yugforge.com/assets/img/logo/logo.png
 tags: [3D Content, Personal Events, Entertainment, Special Occasions, Metaverse, AR, VR, Yug Forge, docusaurus]
----t and Special Occasions
+---
 
 In the realm of personal events and entertainment, Yug Forge opens up a world of possibilities with its cutting-edge 3D content creation. This blog delves into how Yug Forge transforms your special occasions into immersive experiences through captivating 3D content.
 

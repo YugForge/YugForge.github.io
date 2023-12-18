@@ -58,4 +58,4 @@ The immersive nature of Yug Forge's visuals fosters community engagement, encour
 
 Yug Forge stands as a powerful ally in the fight for environmental conservation. Its ability to visualize environmental data and advocate for conservation serves as a beacon for a sustainable future.
 
-Experience the transformative capabilities of Yug Forge in visualizing environmental impact and promoting conservation efforts. Join the movement towards a sustainable future at [Explore Yug Forge Now](https://www.yugforge.com)
+Experience the transformative capabilities of Yug Forge in visualizing environmental impact and promoting conservation efforts.[Explore Yug Forge Now](https://www.yugforge.com)

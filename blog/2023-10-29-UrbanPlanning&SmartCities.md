@@ -58,4 +58,4 @@ Its scalable solutions are designed to evolve with the city, accommodating futur
 
 Yug Forge stands as a catalyst for collaborative urban planning, driving the creation of smarter, more sustainable cities. Its inclusive approach and technological capabilities empower stakeholders to shape the cities of tomorrow.
 
-Explore Yug Forge's transformative potential in collaborative urban planning and smart city development. Learn more about crafting sustainable cities at [Explore Yug Forge Now](https://www.yugforge.com)
+Explore Yug Forge's transformative potential in collaborative urban planning and smart city development.[Explore Yug Forge Now](https://www.yugforge.com)

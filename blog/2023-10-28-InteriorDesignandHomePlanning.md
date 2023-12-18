@@ -56,4 +56,4 @@ Unlock the transformative potential of Yug Forge in designing living spaces that
 
 The integration of Yug Forge in interior design and home planning isn't just about creating spaces; it's about crafting immersive experiences that resonate with clients and elevate living standards.
 
-Explore the transformative capabilities of Yug Forge in interior design and home planning. Witness the power of creating living spaces that seamlessly blend innovation and functionality. Experience the future of design at [Explore Yug Forge Now](https://www.yugforge.com)
+Explore the transformative capabilities of Yug Forge in interior design and home planning. Witness the power of creating living spaces that seamlessly blend innovation and functionality.[Explore Yug Forge Now](https://www.yugforge.com)

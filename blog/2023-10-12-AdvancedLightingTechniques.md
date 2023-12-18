@@ -56,4 +56,6 @@ HDRI involves using images that contain a wide range of luminance values. This t
 
 ## Illuminating Your Designs with Advanced Lighting
 
-Mastering these advanced lighting techniques will empower you to create breathtaking 3D visualizations. Lighting is an art that requires practice and experimentation. Stay tuned as we continue to explore the fascinating world of 3D design and unravel more secrets to enhance your skills. [Explore Yug Forge Now](https://www.yugforge.com)
+Mastering these advanced lighting techniques will empower you to create breathtaking 3D visualizations. Lighting is an art that requires practice and experimentation. 
+
+Stay tuned as we continue to explore the fascinating world of 3D design and unravel more secrets to enhance your skills. [Explore Yug Forge Now](https://www.yugforge.com)

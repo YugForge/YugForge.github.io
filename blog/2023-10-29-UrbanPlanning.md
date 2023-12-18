@@ -56,4 +56,4 @@ Explore the transformative potential of Yug Forge in sustainable urban design. R
 
 Integrating Yug Forge into environmental and urban planning endeavors represents a leap forward in creating eco-friendly, livable cities for generations to come.
 
-Experience the power of Yug Forge in crafting sustainable urban designs. Discover innovative ways to shape cities sustainably at [Explore Yug Forge Now](https://www.yugforge.com)
+Experience the power of Yug Forge in crafting sustainable urban designs.[Explore Yug Forge Now](https://www.yugforge.com)

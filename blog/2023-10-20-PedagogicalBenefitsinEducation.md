@@ -56,4 +56,4 @@ Yug Forge is user-friendly and accessible to students at various educational lev
 
 Integrating 3D design into education isn't just a trend; it's a transformation. Yug Forge is at the forefront of this educational shift, empowering educators to deliver content in innovative and effective ways. As students become creators and problem solvers, the pedagogical benefits of 3D design are clear.
 
-Are you ready to unlock the potential of 3D design in education with Yug Forge? [Explore Yug Forge Now](https://www.yug)
+Are you ready to unlock the potential of 3D design in education with Yug Forge? [Explore Yug Forge Now](https://www.yugforge.com)

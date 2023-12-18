@@ -56,4 +56,4 @@ Explore the endless possibilities of custom furniture and decor prototyping with
 
 The integration of Yug Forge in furniture and decor prototyping marks a pivotal shift in how designers conceptualize and create custom pieces, setting new benchmarks in interior design innovation.
 
-Experience the transformative capabilities of Yug Forge in furniture and decor prototyping. Explore the power of crafting custom pieces at [Explore Yug Forge Now](https://www.yugforge.com)
+Experience the transformative capabilities of Yug Forge in furniture and decor prototyping.[Explore Yug Forge Now](https://www.yugforge.com)
